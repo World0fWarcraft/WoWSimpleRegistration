@@ -78,6 +78,7 @@ nav.navbar.bootsnav:before, nav.navbar.bootsnav:after {
     padding: 10px;
     border-radius: 5px;
     margin-bottom: 10px;
+    border: 1px solid #00FF00;
 }
 
 .content1 {

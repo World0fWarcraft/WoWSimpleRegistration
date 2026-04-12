@@ -9,7 +9,7 @@
 require_once 'header.php'; ?>
 <div class="row">
     <div class="main-box">
-        <div class="col-md-8" style="margin-top: 1px;">
+        <div class="col-md-8" style="margin-top: 0px;">
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
