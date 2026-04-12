@@ -50,7 +50,7 @@
         <h2 data-aos="fade-up" class="text-shadow1"><?php elang('welcome_message'); ?></h2>
         <a data-aos="fade-up" href="#about" class="btn-get-started scrollto"><?php elang('get_started');  ?></a>
         <?php if(!empty(get_config('supported_langs'))) { ?>
-        <a data-aos="fade-up" href="#" class="btn-get-started" style="margin-top: 10px;" data-toggle="modal" data-target="#lang-modal">Language</a>
+        <a data-aos="fade-up" href="#" class="btn-get-started" style="margin-top: 10px;" data-toggle="modal" data-target="#lang-modal"><?php elang('language_btn'); ?></a>
         <?php } ?>
     </div>
 </section>

@@ -120,3 +120,5 @@ $language['hcaptcha_not_valid'] = 'Le HCaptcha n\'est pas valide.';
 $language['recaptcha_not_valid'] = 'Le ReCaptcha n\'est pas valide.';
 $language['turnstile_not_valid'] = 'Cloudflare Turnstile n\'est pas valide.';
 $language['captcha_required'] = 'Le Captcha est obligatoire.';
+
+$language['language_btn'] = 'Langue';
