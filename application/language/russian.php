@@ -120,3 +120,5 @@ $language['hcaptcha_not_valid'] = 'Проверка HCaptcha не пройден
 $language['recaptcha_not_valid'] = 'Проверка ReCaptcha не пройдена.';
 $language['turnstile_not_valid'] = 'Проверка Cloudflare Turnstile не пройдена.';
 $language['captcha_required'] = 'Проверка не пройдена.';
+
+$language['language_btn'] = 'Язык';

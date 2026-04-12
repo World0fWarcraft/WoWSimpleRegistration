@@ -120,3 +120,5 @@ $language['hcaptcha_not_valid'] = '보안문자가(HCaptcha) 틀렸습니다.';
 $language['recaptcha_not_valid'] = '보안문자가(ReCaptcha) 틀렸습니다.';
 $language['turnstile_not_valid'] = '보안문자가(Cloudflare Turnstile) 틀렸습니다.';
 $language['captcha_required'] = '보안문자가(Captcha) 필요합니다.';
+
+$language['language_btn'] = '언어';
